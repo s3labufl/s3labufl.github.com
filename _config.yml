@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://s3labufl.github.com
+title: S3Lab System Research Blog
+subtitle: A blogging for hackers in S3Lab.
+author: Ze Yu
 simple_search: http://google.com/search
 description:
 
